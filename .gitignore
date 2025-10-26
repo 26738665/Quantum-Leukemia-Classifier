@@ -1,0 +1,13 @@
+﻿# Virtual Environment
+.venv/
+
+# Large Data Files and Models
+data/
+*.keras
+*.npz
+
+# Python Caches
+__pycache__/
+
+# IDE files (for PyCharm)
+.idea/
