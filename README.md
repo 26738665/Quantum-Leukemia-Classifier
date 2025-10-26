@@ -1,4 +1,3 @@
-```markdown
 # Hybrid Quantum-Classical Model for Leukemia Diagnosis
 
 A project exploring a hybrid quantum-classical machine learning model for the classification of Acute Lymphoblastic Leukemia (ALL) from blood cell images. This repository contains the full end-to-end pipeline, from data preprocessing to the training and evaluation of both a classical baseline and a prototype quantum neural network.
